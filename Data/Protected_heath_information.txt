@@ -1,3 +1,1 @@
-Protected_heath_information.txt
-
-# placeholder patient info
+placeholder patient info
