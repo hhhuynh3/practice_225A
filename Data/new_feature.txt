@@ -1,0 +1,4 @@
+new_feature.txt
+
+few lines of text
+line of text
